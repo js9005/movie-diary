@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  color: #333;
+}
+a {
+  text-decoration: none;
+  color: #333;
+}
+ul,
+ol {
+  list-style: none;
+}
+button {
+  display: block;
+  border: none;
+}
+.container {
+  max-width: 1200px;
+  margin: 50px auto;
+}

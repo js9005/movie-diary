@@ -1,0 +1,17 @@
+.form_wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.form_wrap h2 {
+  margin-bottom: 20px;
+}
+.form_wrap input {
+  width: 400px;
+  height: 40px;
+  margin-bottom: 10px;
+}
+.form_wrap .btn_wrap {
+  width: 400px;
+}
